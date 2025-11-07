@@ -104,6 +104,10 @@ super-mario-k8s-deployment/
 Super Mario in Action
 <img width="927" height="382" alt="image" src="https://github.com/user-attachments/assets/da31f3a8-1f11-477f-987b-192dd33124cb" />
 
+## 🎥 Demo Video
+
+https://github.com/user-attachments/assets/e553d0f2-7861-4792-9ef1-9f440b76d8ea
+
 **📚 Learnings & Outcomes**
 - Understanding of Terraform for provisioning cloud-native infrastructure.
 - Hands-on experience with Kubernetes deployment and service management.
@@ -126,3 +130,4 @@ Super Mario in Action
 **🌐 License**
 - This project is open-source and available under the MIT License.
 ---
+
